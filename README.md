@@ -6,4 +6,4 @@
 3. run `python3 app.py` to have the local flask web server running
 4. Open a browser and go to localhost:5000 to make use of the application
 
-![image](https://user-images.githubusercontent.com/26225083/217639493-cfe5b94e-3d6e-4446-810b-aa53cbcadce6.png)
+![image](https://user-images.githubusercontent.com/26225083/217639817-eda22777-97f0-4db3-8161-1e66246f2209.png)
